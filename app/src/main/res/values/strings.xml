@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dropdown Calling App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="color_drop_down">Some kind of drop down spinner</string>
+</resources>
